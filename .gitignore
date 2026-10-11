@@ -1,0 +1,18 @@
+# Python ve sanal ortamlar
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Yerel çalışma çıktıları; örnek sonuçlar repoda tutulur
+sonuclar/
+kendi_sonuclarim/
+work/
+
+# Yerel ayarlar ve işletim sistemi dosyaları
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
